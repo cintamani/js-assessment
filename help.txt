@@ -6,3 +6,5 @@ browser to see whether the tests are passing.
 
 For some tests, the instructions will be more involved; in those cases, the
 inline comments should give you the details you need.
+
+Magari qui ti arriva la notifica io non ho il tuo indirizzo mi contatti al mio account gmail nome.cognome x domani
